@@ -24,12 +24,6 @@ The old netperf database at:
 is no more - or rather the utilities for accessing it no longer run.
 The data is still present in the tree, albeit _VERY_ old now.
 
-There is an Internet mailing list devoted to netperf. It is called
-netperf-talk and it is hosted on netperf.org. Subscription requests
-should go to netperf-talk-request@netperf.org.
-
-Please DO NOT SEND subscription requests to netperf-talk!
-
 If you run into severe difficulties, or are just feeling chatty,
 please feel free to drop some email to me - Rick Jones
 <rick.jones2@hp.com>. Be sure to include a meaningful subject lines.
